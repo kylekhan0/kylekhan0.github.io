@@ -4,7 +4,7 @@ title: Welcome to Kyle Khan's Site
 ---
 # Kyle Khan's Website
 
-Welcome to my personal site at [kylekhan.ca](https://kylekhan.ca)! This is a work in progress. kylekhan.com has a certain kind of ring to it so I secured that too :]
+Welcome to my personal site at [kylekhan.ca](https://kylekhan.ca)! This is a work in progress. kylekhan.com has a certain kind of ring to it so I secured that too :] This site was updated on June 20, 2025.
 
 ## Recent Posts
 {% for post in site.posts %}
